@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hey everyone, I'm Mish Manners, AKA the Hackathon Queen 👋
 
-<!--
-**MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<!--**MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+<img src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" width="100" height="100">
